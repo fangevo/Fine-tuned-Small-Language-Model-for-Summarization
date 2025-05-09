@@ -15,7 +15,7 @@
 git clone https://github.com/fangevo/Fine-tuned-Small-Language-Model-for-Summarization.git
 ```
 ## Usage
-1. 
+1. Go to the root directory
 ```
 cd Fine-tuned-Small-Language-Model-for-Summarization
 ```
